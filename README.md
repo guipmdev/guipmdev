@@ -37,15 +37,25 @@
   <a href="https://github.com/guipmdev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" alt="GitHub" />
   </a> 
+  <a href="[mailto:guipm.dev@gmail.com](https://www.codewars.com/users/guipmdev)" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" alt="Codewars" />
+  </a>
   <a href="https://www.linkedin.com/in/guilhermeprevedamilek" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@guipmdev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" alt="YouTube" />
   </a>
-  <a href="https://www.youtube.com/@guipmdev" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:guipm.dev@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
+
+<hr />
+
+<div align="center">
+  <p>Meu perfil no Codewars:</p>
+  <img src="https://www.codewars.com/users/guipmdev/badges/large" alt="" />
 </div>
 
 <!-- ===== STATISTICS ===== -->
