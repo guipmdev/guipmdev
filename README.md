@@ -51,7 +51,7 @@
 <p align="center">
   <a href="https://guipm.dev">
     <img
-      src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel"
+      src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"
       alt="Vercel"
     />
   </a>
